@@ -1,19 +1,18 @@
 body {
     background-color: #feedff;
-    font-family: 'Inter', sans-serif; /* A fonte importada aqui */
+    font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
 h2, .card-header, .navbar-brand {
     font-family: 'Inter', sans-serif;
-    font-weight: 700; /* Peso negrito para títulos */
+    font-weight: 700; 
 }
 
-/* Estilo para os números das leituras */
 .card-title {
     font-family: 'Inter', sans-serif;
     font-weight: 600;
-    letter-spacing: -1px; /* Números ficam mais elegantes assim */
+    letter-spacing: -1px; 
 }
 
 .card {
